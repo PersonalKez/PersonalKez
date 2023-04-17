@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PersonalKez
-- 👀 I’m interested in Java/Python, testing, and data
-- 🌱 I’m currently learning Cypress and Java ML
-- 💞️ I’m looking to collaborate on a dynamic budgetting project
-- 📫 How to reach me via kezbombdm@gmail.com, dagwood96@hotmail.com
+- 👋 Hi, I’m @Kez
+- 👀 I’m interested in full stack development, primarily using Springboot and React
+- 🌱 I’m currently contributing to Krita
+- 💞️ I’m interested in new job opportunities
+- 📫 Contact email: dagwood96@hotmail.com
 
 <!---
 PersonalKez/PersonalKez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
