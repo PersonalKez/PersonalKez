@@ -3,6 +3,7 @@
 - 🌱 I’m currently contributing to Krita
 - 💞️ I’m interested in new job opportunities
 - 📫 Contact email: keelanhassell@gmail.com
+- find me at https://personalkez.github.io/#/about
 
 <!---
 PersonalKez/PersonalKez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
